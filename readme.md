@@ -15,4 +15,4 @@ download and unzip https://github.com/visualbasic6/subdomainbruteforce/archive/m
 \<laughs in quadruple og\>
 
 **greetz**<br/>
-[https://justinakapaste.com](justinakapaste.com) and all of my elderly aol hackers
+[justinakapaste.com](https://justinakapaste.com) and all of my elderly aol hackers
