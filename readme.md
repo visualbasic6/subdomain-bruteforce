@@ -9,7 +9,7 @@ dirbuster for linux is handy but it only targets one host at a time and doesn't 
 ![ss](https://github.com/visualbasic6/subdomain-bruteforce/raw/master/ss.png)
 
 **install and use**<br/>
-download and unzip https://github.com/visualbasic6/subdomainbruteforce/archive/master.zip. it's in /bin
+download and unzip https://github.com/visualbasic6/subdomainbruteforce/archive/master.zip. it's in \bin
 
 **compile from source**<br/>
 \<laughs in quadruple og\>
