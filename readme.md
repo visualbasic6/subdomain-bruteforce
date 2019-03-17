@@ -1,5 +1,5 @@
 **description**<br/>
-subdomain bruteforce for windows is best used in conjunction with other tools, combining results and dupekilling.
+subdomain bruteforce for windows is best used in conjunction with other tools - combining their results and dupekilling them.
 it uses async get requests to brute force subdomains and is pretty fast and accurate over p80/443. 
 i may add multi-host support, [recursion](https://www.google.com/search?q=recursion), web spidering, directory and
 file enumeration in the future. as well as making it more traditionally user friendly. 
