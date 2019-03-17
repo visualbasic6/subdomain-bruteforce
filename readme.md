@@ -2,14 +2,14 @@
 subdomain bruteforce for windows is best used in conjunction with other tools - combining their results and dupekilling them.
 it uses async get requests to brute force subdomains and is pretty fast and accurate over p80/443. 
 
-**ss**<br/>
-![ss](https://github.com/visualbasic6/subdomain-bruteforce/raw/master/ss.png)
-
 **install and use**<br/>
 download and unzip https://github.com/visualbasic6/subdomainbruteforce/archive/master.zip. it's in \bin
 
 **compile from source**<br/>
 \<laughs in quadruple og\>
+
+**ss**<br/>
+![ss](https://github.com/visualbasic6/subdomain-bruteforce/raw/master/ss.png)
 
 **roadmap, misc. notes**<br/>
 i may add multi-host support, [recursion](https://www.google.com/search?q=recursion), web spidering, directory and
