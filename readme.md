@@ -2,7 +2,7 @@
 subdomain bruteforce for windows is best used in conjunction with other tools - combining their results and dupekilling them.
 it uses async get requests to brute force subdomains and is pretty fast and accurate over p80/443. 
 
-**roadmap, misc. notes**<br/><br/>
+**roadmap, misc. notes**<br/>
 i may add multi-host support, [recursion](https://www.google.com/search?q=recursion), web spidering, directory and
 file enumeration in the future. as well as making it more traditionally user friendly.  re: file/directory scanning- 
 dirbuster for linux is handy (and wonderful) but it only targets one host at a time and doesn't discover subdomains.
