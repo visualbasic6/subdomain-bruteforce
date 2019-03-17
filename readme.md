@@ -7,7 +7,7 @@ i may add multi-host support, [recursion](https://www.google.com/search?q=recurs
 file enumeration in the future. as well as making it more traditionally user friendly.  re: file/directory scanning- 
 dirbuster for linux is handy (and wonderful) but it only targets one host at a time and doesn't discover subdomains.
 [ffuf](https://github.com/ffuf/ffuf) looks incredible as well. that's written in go and seems fast and feature rich.<br/><br/>
-the future of this project may involve the addition of several features, a name change and more point and click simplicity.
+the future of this *prog* may involve the addition of several features, a name change and more point and click simplicity.
 
 **ss**<br/>
 ![ss](https://github.com/visualbasic6/subdomain-bruteforce/raw/master/ss.png)
