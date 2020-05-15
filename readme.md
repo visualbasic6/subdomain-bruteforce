@@ -13,7 +13,7 @@ download and unzip https://github.com/visualbasic6/subdomainbruteforce/archive/m
 
 **roadmap, misc. notes**<br/>
 i may add multi-host support, [recursion](https://www.google.com/search?q=recursion), web spidering, directory and
-file enumeration in the future. as well as making it more traditionally user friendly.  re: file/directory scanning- 
+file enumeration in the future. as well as making it more traditionally user friendly.  re: file/directory scanning - 
 [ffuf](https://github.com/ffuf/ffuf) is incredible. that's written in go and is fast and feature rich. probably use that instead.
 **greetz**<br/>
 [justinakapaste.com](https://justinakapaste.com) and all of my elderly aol hackers
