@@ -120,7 +120,7 @@ Begin VB.Form frmMain
       Height          =   315
       Left            =   120
       TabIndex        =   0
-      Text            =   "25"
+      Text            =   "250"
       Top             =   360
       Width           =   855
    End
